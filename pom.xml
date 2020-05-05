@@ -20,11 +20,5 @@
     </dependency>
   </dependencies>
 
-	<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-2-38.us-east-2.compute.internal-releases</name>
-        <url>http://18.222.78.157:8081/artifactory/libs-release-local</url>
-    </repository>
-</distributionManagement>
+	
 </project>
